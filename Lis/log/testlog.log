@@ -1,0 +1,18 @@
+2017-01-12 09:12:54,030 - Testlog -INFO - Test finish
+2017-01-12 13:46:27,535 - Testlog -INFO - Test started
+2017-01-12 13:46:27,628 - Testlog -INFO - Test started[TestResult name=f status=STARTED method=Teszt.f()[pri:0, instance:Teszt@4f933fd1] output={null}]
+2017-01-12 13:47:19,575 - Testlog -INFO - Test sucess[TestResult name=f status=SUCCESS method=Teszt.f()[pri:0, instance:Teszt@4f933fd1] output={null}]
+2017-01-12 13:47:19,622 - Testlog -INFO - Test finish
+2017-01-12 13:49:02,465 - Testlog -INFO - Test started
+2017-01-12 13:49:02,481 - Testlog -INFO - Test startednull
+2017-01-12 13:49:27,830 - Testlog -INFO - Test sucess[TestResult name=f status=SUCCESS method=Teszt.f()[pri:0, instance:Teszt@4f933fd1] output={null}]
+2017-01-12 13:49:27,861 - Testlog -INFO - Test finish
+2017-01-12 13:52:08,854 - Testlog -INFO - Test started
+2017-01-12 13:52:08,948 - Testlog -INFO - Test startedf
+2017-01-12 13:53:04,799 - Testlog -INFO - Test sucess[TestResult name=f status=SUCCESS method=Teszt.f()[pri:0, instance:Teszt@4f933fd1] output={null}]
+2017-01-12 13:53:04,862 - Testlog -INFO - Test finish
+2017-01-18 14:02:24,727 - Testlog -INFO - Test started
+2017-01-18 14:02:24,852 - Testlog -INFO - Test startedf
+2017-01-18 14:03:37,385 - Testlog -INFO - Test failure[TestResult name=f status=FAILURE method=Teszt.f()[pri:0, instance:Teszt@4f933fd1] output={null}]
+2017-01-18 14:03:37,385 - Testlog -INFO - Test failure[TestResult name=f status=FAILURE method=Teszt.f()[pri:0, instance:Teszt@4f933fd1] output={null}]
+2017-01-18 14:03:37,433 - Testlog -INFO - Test finish
